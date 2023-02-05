@@ -1,0 +1,16 @@
+in3.txt
+in4.txt
+ss sim
+sim
+insert
+insert1 X Y
+insert1 a y
+insert2 s r
+del A
+del1 A
+del1 a
+del2 s
+insert1 a r
+insert2 s y
+sim
+exit
