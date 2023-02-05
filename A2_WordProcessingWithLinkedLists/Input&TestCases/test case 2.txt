@@ -1,0 +1,9 @@
+in1.txt
+in2.txt
+insert2 X Y
+insert1 b u
+del2 r
+del1 r
+insert2 b o
+sim
+exit
