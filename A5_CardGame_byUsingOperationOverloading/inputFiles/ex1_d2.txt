@@ -1,3 +1,0 @@
-Java 0
-JavaScript 6
-C++ 11
